@@ -32,3 +32,6 @@ ng serve
 
 ## Crear nou component
 ng generate component nomComponent
+
+## Crear nou servei
+ng generate service nomServei
